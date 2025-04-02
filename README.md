@@ -21,12 +21,12 @@ This project focuses on web scraping using **BeautifulSoup** to efficiently extr
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Web-Scraping-Project.git
-   cd Web-Scraping-Project
+   git clone https://github.com/Shanny254/Web-Scrapping-with-BeautifulSoup.git
+   cd Web-Scrapping-with-BeautifulSoup
    ```
 2. Run the scraper:
    ```bash
-   python scraper.py
+   python Web Scrapping.py
    ```
 
 ## 🎯 Usage
